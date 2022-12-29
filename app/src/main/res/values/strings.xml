@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProductManager</string>
+    <string name="enter_name_activity1">Название продукта</string>
+    <string name="enter_date_activity1">Дата поступления</string>
+    <string name="enter_count_activity1">Количество</string>
+    <string name="enter_price_activity1">Стоимость за единицу</string>
+    <string name="button_add_product_activity1">Добавить продукт</string>
+    <string name="button_find_product_activity1">Поиск продукта</string>
+    <string name="button_find_product_activity2">Найти продукт</string>
+    <string name="enter_name_activity2">Введите название продукта</string>
+
+
+</resources>
